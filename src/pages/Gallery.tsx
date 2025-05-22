@@ -7,16 +7,16 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 const galleryImages = [
   {
     id: 1,
-    url: 'https://images.unsplash.com/photo-1541795795328-f073b763494e?auto=format&fit=crop&q=80&w=1200',
-    thumbnail: 'https://images.unsplash.com/photo-1541795795328-f073b763494e?auto=format&fit=crop&q=80&w=600&h=400',
+    url: 'https://github.com/motobikes/motobikes.github.io/blob/main/public/lovable-uploads/482979963_670984705591947_2176069155320366585_n.jpg?raw=true',
+    thumbnail: 'https://github.com/motobikes/motobikes.github.io/blob/main/public/lovable-uploads/482979963_670984705591947_2176069155320366585_n.jpg?raw=true',
     title: 'Εργαστήριο ποδηλάτων',
     category: 'workshop',
     description: 'Το κεντρικό εργαστήριο μας με όλο τον απαραίτητο εξοπλισμό για επισκευές υψηλής ποιότητας.'
   },
   {
     id: 2,
-    url: 'https://images.unsplash.com/photo-1559348349-86d1b252cb29?auto=format&fit=crop&q=80&w=1200',
-    thumbnail: 'https://images.unsplash.com/photo-1559348349-86d1b252cb29?auto=format&fit=crop&q=80&w=600&h=400',
+    url: 'https://github.com/motobikes/motobikes.github.io/blob/main/public/lovable-uploads/481954020_668586545831763_5242133708775912980_n.jpg?raw=true',
+    thumbnail: 'https://github.com/motobikes/motobikes.github.io/blob/main/public/lovable-uploads/481954020_668586545831763_5242133708775912980_n.jpg?raw=true',
     title: 'Επισκευή ποδηλάτου',
     category: 'repairs',
     description: 'Ο έμπειρος τεχνικός μας εκτελεί μια λεπτομερή επισκευή σε ποδήλατο δρόμου.'
