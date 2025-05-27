@@ -1,9 +1,9 @@
 import { Card, CardContent } from '@/components/ui/card';
 const testimonials = [{
-  name: 'Δημήτρης Αντωνίου',
+  name: 'Σπύρος Δίγκας',
   role: 'Επαγγελματίας ποδηλάτης',
   quote: 'Άριστη εξυπηρέτηση και τεχνική κατάρτιση. Οι καλύτεροι τεχνικοί ποδηλάτων στην πόλη!',
-  imageUrl: 'https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?auto=format&fit=crop&q=80&w=100&h=100'
+  imageUrl: 'https://i.ibb.co/RTJ7XHmW/354783608-10222435107562975-4453383763845653345-n.jpg'
 }, {
   name: 'Ελένη Παπαδοπούλου',
   role: 'Ερασιτέχνης ποδηλάτης',
