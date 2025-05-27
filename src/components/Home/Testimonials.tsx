@@ -1,14 +1,14 @@
 import { Card, CardContent } from '@/components/ui/card';
 const testimonials = [{
   name: 'Σπύρος Δίγκας',
-  role: 'Επαγγελματίας ποδηλάτης',
-  quote: 'Άριστη εξυπηρέτηση και τεχνική κατάρτιση. Οι καλύτεροι τεχνικοί ποδηλάτων στην πόλη!',
+  role: 'Ποδυλατης πισινας',
+  quote: 'Έχω πάρει ενα υδροποδυλατο για τα αρθιτικά μου, η καλύτερη αγορα που εχω κανει με φουλ υποστηριξη!',
   imageUrl: 'https://i.ibb.co/RTJ7XHmW/354783608-10222435107562975-4453383763845653345-n.jpg'
 }, {
-  name: 'Ελένη Παπαδοπούλου',
+  name: 'Helga Bachmann',
   role: 'Ερασιτέχνης ποδηλάτης',
-  quote: 'Επισκεύασαν το ποδήλατό μου μέσα σε μια μέρα. Η εξυπηρέτηση ήταν φανταστική και οι τιμές λογικές.',
-  imageUrl: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=100&h=100'
+  quote: 'Πήρα ένα απίστευτο ποδύλατο χωρίς σέλα! ουουουουου.',
+  imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTcVJIGwEj_RLDzETXqGe1HXZaSp2pxY--2g&s'
 }, {
   name: 'Νίκος Μαρκόπουλος',
   role: 'Αθλητής MTB',
